@@ -23,6 +23,21 @@ analysis.
 Prepare your dataset of labeled cyberbullying and non-cyberbullying
 content in text, image, and audio formats.
 
+Text Dataset
+Name : twitter.csv
+
+![Text dataset](https://github.com/saiteja007-mv/Cyberbully-Detection-in-Texts-Images-and-Audios/assets/56865372/a1c35e71-dce8-4914-ab75-395de63827b1)
+
+Images dataset
+Folder Name : Images_dataset
+
+![Images dataset](https://github.com/saiteja007-mv/Cyberbully-Detection-in-Texts-Images-and-Audios/assets/56865372/ad8e174c-e567-48b3-8e32-232022ef938e)
+
+Audio dataset
+Folder Name : audios
+
+![audio dataset](https://github.com/saiteja007-mv/Cyberbully-Detection-in-Texts-Images-and-Audios/assets/56865372/d630e382-9665-4d1b-8938-33458528f8d7)
+
 Run the cells in the Jupyter notebook to train the models on the
 provided dataset.
 
